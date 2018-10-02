@@ -14,3 +14,5 @@ if __name__ =='__main__':
         if is_prime(i)*is_prime(i+2):
             s= s + 1
     print('The total number of twim primes between 1 thousand and 1 million is %d',s)
+    
+#The total number of twim primes between 1 thousand and 1 million is %d 8134
